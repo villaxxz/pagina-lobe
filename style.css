@@ -1,0 +1,69 @@
+.contenedor{
+    display: flex;
+    justify-content: center;
+
+}
+
+.menu{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+li{
+    list-style: none;
+    font-family: 'Onest', sans-serif;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+h1{
+    margin-right: 400px;
+}
+
+h2{
+    margin-left: 780px;
+    margin-top: 100px;
+    font-size: 80px;
+    font-family: 'Gabarito', cursive;
+    font-family: 'Onest', sans-serif;
+}
+
+p{
+    margin-top: 10px;
+    margin-left: 570px;
+    font-size: 35px;
+    width: 900px;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.titulo{
+    display: flex;
+    
+}
+
+.tour{
+    color: #18cab8;
+    margin-left: 25px;
+}
+
+img{
+    width: 700px;
+    height: 500px;
+    margin-left: 580px;
+}
+
+button{
+    width: 120px;
+    height: 40px;
+    border-radius: 50px;
+    margin-left: 200px;
+    background-color: #18cab8;
+    
+}
+
+.boton:hover{
+    background-color:rgb(110, 211, 245);
+}
